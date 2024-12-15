@@ -1,0 +1,35 @@
+Vous
+20:45
+J'ai fini le téléchargement, je suis entrain d'installer, suis au niveau de "Adjusting your PATH environment" et j'ai déjà créer déjà le compte GIT, et là suis au niveau de "Tell us a bit about yourself"
+Joël Magene (Sem)
+20:52
+git config --global user.name "Votre Nom"
+Joël Magene (Sem)
+20:54
+git config --global user.email "votre.email@example.com"
+Joël Magene (Sem)
+20:55
+git config --global user.email
+git config --global user.name
+Joël Magene (Sem)
+20:58
+git init
+Joël Magene (Sem)
+21:17
+git add
+git status
+Joël Magene (Sem)
+21:19
+git commit -m "ton message"
+Joël Magene (Sem)
+21:21
+git log
+Joël Magene (Sem)
+21:31
+git remote add origin
+Joël Magene (Sem)
+21:32
+git remote -v
+Joël Magene (Sem)
+21:34
+git push origin master
